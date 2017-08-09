@@ -1,5 +1,5 @@
 # Bubble-Burst-Frenzy
-Image processing based game developed on python platform
+Image processing based game developed on python platform by Abhay Agrwal and Aneesh Dahiya.
 
 Bubble Burst Frenzy is a image processing based game developed on python plateform for recreational activities. As with time interest of everyone in digital life is increasing it is becoming hard for them to get physical exercise. This game is a mixture of digital life and physical activities. This game uses image processing to detect a specific colour. Bubbles are projected on the wall and a camera is set to detect the activities on the wall. Whenever a specific colour comes above the bubble it burst. This game can be played in single player as well as multiplayer mode.
 
@@ -31,4 +31,4 @@ Following things can be implemented in the near future :-
 2.	More games can be added.
 
 ## Thanks
-Feel free to post issues if you find any problem or contact me
+Feel free to post issues if you find any problem or contact me.
